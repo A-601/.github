@@ -8,12 +8,12 @@ AI 판사 기반 몰입형 SF 서바이벌 마피아 게임 프로젝트입니�
 ### 개발 기간 : 2026.01.06 ~ 2026.02.13
 ### 개발 인원 : 4명
 
-<img width="1920" height="1080" alt="app" src="https://github.com/user-attachments/assets/5a609cd3-fec6-4555-8de2-b3fad86ced34" />
+<img src="./docs/app.png" alt = "logo" width= "800">
 
 
 ## 팀원 구성
 
-<img width="1920" height="1080" alt="team" src="https://github.com/user-attachments/assets/a02a5f28-6aab-40a8-b141-a001bfb3509a" />
+<img src="./docs/team.png" alt = "team" width= "800">
 
 
 ## 🚀 Getting Started
