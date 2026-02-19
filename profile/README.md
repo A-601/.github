@@ -13,7 +13,7 @@ AI 판사 기반 몰입형 SF 서바이벌 마피아 게임 프로젝트입니�
 
 ## 팀원 구성
 
-<img src="./docs/team.png" alt = "team" width= "800">
+<img src="../docs/team.png" alt = "team" width= "800">
 
 
 ## 🚀 Getting Started
@@ -73,59 +73,59 @@ cd frontend && npm run dev
 
 
 ## 시스템 아키텍처
-<img src="./docs/architecture.png" alt = "team" width= "800">
+<img src="../docs/architecture.png" alt = "team" width= "800">
 
 ## 기능 구성
 
 ### 로그인
 
-<img src="./docs/login.png" alt = "team" width= "800">
+<img src="../docs/login.png" alt = "team" width= "800">
 
 ### 마이페이지
 
-<img src="./docs/mypage.png" alt = "team" width= "800">
+<img src="../docs/mypage.png" alt = "team" width= "800">
 
 ### 메인 로비
 
-<img src="./docs/main.png" alt = "team" width= "800">
+<img src="../docs/main.png" alt = "team" width= "800">
 
 ### 게임 대기방
 
-<img src="./docs/lobby.png" alt = "team" width= "800">
+<img src="../docs/lobby.png" alt = "team" width= "800">
 
 ### 인게임 화면
 
 #### 직업 배정
 
-<img src="./docs/role.gif" alt = "team" width= "800">
+<img src="../docs/role.gif" alt = "team" width= "800">
 
 #### 낮 화면
 
-<img src="./docs/day.gif" alt = "team" width= "800">
+<img src="../docs/day.gif" alt = "team" width= "800">
 
 #### 밤 화면
 
-<img src="./docs/night.gif" alt = "team" width= "800">
+<img src="../docs/night.gif" alt = "team" width= "800">
 
 #### AI 변론 화면
 
-<img src="./docs/pleading.gif" alt = "team" width= "800">
+<img src="../docs/pleading.gif" alt = "team" width= "800">
 
-<img src="./docs/judgment.gif" alt = "team" width= "800">
+<img src="../docs/judgment.gif" alt = "team" width= "800">
 
 ### 능력 사용
 
 #### 시스템 엔지니어
-<img src="./docs/sys.gif" alt = "team" width= "800">
+<img src="../docs/sys.gif" alt = "team" width= "800">
 
 #### 외계인
-<img src="./docs/alien.gif" alt = "team" width= "800">
+<img src="../docs/alien.gif" alt = "team" width= "800">
 
 #### 영상 엔지니어
-<img src="./docs/cam.gif" alt = "team" width= "800">
+<img src="../docs/cam.gif" alt = "team" width= "800">
 
 #### 밀항자
-<img src="./docs/milhangza.gif" alt = "team" width= "800">
+<img src="../docs/milhangza.gif" alt = "team" width= "800">
 
 ## 디렉토리 구조
 
@@ -208,23 +208,23 @@ cd frontend && npm run dev
 
 ### ERD 
 
-<img src="./docs/erd.png" alt = "team" width= "800">
+<img src="../docs/erd.png" alt = "team" width= "800">
 
 ### Swagger API Docs 
 
-<img src="./docs/swagger_1.png" alt = "team" width= "800">
+<img src="../docs/swagger_1.png" alt = "team" width= "800">
 
 
-<img src="./docs/swagger_2.png" alt = "team" width= "800">
+<img src="../docs/swagger_2.png" alt = "team" width= "800">
 
 
-<img src="./docs/swagger_3.png" alt = "team" width= "800">
+<img src="../docs/swagger_3.png" alt = "team" width= "800">
 
 
-<img src="./docs/swagger_4.png" alt = "team" width= "800">
+<img src="../docs/swagger_4.png" alt = "team" width= "800">
 
 
-<img src="./docs/swagger_5.png" alt = "team" width= "800">
+<img src="../docs/swagger_5.png" alt = "team" width= "800">
 
 
 ### <a href="https://drive.google.com/file/d/1U3-hgDkIL4uVr8fKiIEmFyrDxVgn_6zn/view?usp=drive_link">영상 포트폴리오</a>
